@@ -10859,6 +10859,9 @@ article.article .content .message.message-immersive .message-body {
   left: 0;
   right: 0;
 }
+.navbar-main+* {
+  margin-top: 3.25rem;
+}
 .navbar-main .navbar-menu,
 .navbar-main .navbar-start,
 .navbar-main .navbar-end {
